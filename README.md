@@ -23,5 +23,6 @@ To build a reliable and abuse-proof reward infrastructure for on-chain and off-c
 - Multi-admin support and auditing
 
 ## Contract Details
+project done by anurag chouhan
 0x63868562Ad67Aa99767d0e0ff3cB54946f7e5914
 ![alt text](image.png)
