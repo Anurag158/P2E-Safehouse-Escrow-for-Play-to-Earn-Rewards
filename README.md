@@ -1,4 +1,4 @@
-# Project Title: P2E Safehouse: Escrow for Play-to-Earn Rewards
+# Project Title: P2E Safehouse: Escrow for Play-to-Earn Rewards 
 
 project done by Anurag Chouhan                   
 
