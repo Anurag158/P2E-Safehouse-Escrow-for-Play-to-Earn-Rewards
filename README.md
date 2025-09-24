@@ -1,7 +1,7 @@
-# Project Title: P2E Safehouse: Escrow for Play-to-Earn Rewards 
+7# Project Title: P2E Safehouse: Escrow for Play-to-Earn Rewards 
  
 project done by Anurag Chouhan                   
- 
+  
 ## Project Description 
 
 P2E Safehouse is an escrow protocol for Web3 games to securely hold and disburse play-to-earn rewards. Game developers deposit rewards that players can later claim, ensuring transparency and security.
